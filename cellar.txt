@@ -2,3 +2,4 @@ raz dva
 tri chetyre
 pyat' shest'
 sem' vosem'
+devyat' desyat'
