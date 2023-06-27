@@ -3,3 +3,6 @@ tri chetyre
 pyat' shest'
 sem' vosem'
 devyat' desyat'
+
+раз два
+три четыре
